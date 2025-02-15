@@ -11,6 +11,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 Explain how your project works
 
+It seems that I *have* to modify this in order to make some github actions not fail.
+
 ## How to test
 
 Explain how to use your project
